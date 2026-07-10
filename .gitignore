@@ -1,0 +1,11 @@
+# === SEGREDOS — NUNCA versionar ===
+.env
+.env.*
+*.env
+# logs / cache / temporários
+coleta.log
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
